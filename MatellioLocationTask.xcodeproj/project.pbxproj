@@ -292,11 +292,16 @@
 				DEVELOPMENT_TEAM = S593B262J6;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = MatellioLocationTask/Info.plist;
+				INFOPLIST_KEY_NSLocationAlwaysAndWhenInUseUsageDescription = "Your location will be used to display nearby transportation options.";
+				INFOPLIST_KEY_NSLocationAlwaysUsageDescription = "Your location will be used to display nearby transportation options.";
+				INFOPLIST_KEY_NSLocationUsageDescription = "Your location will be used to display nearby transportation options.";
+				INFOPLIST_KEY_NSLocationWhenInUseUsageDescription = "Your location will be used to display nearby transportation options.";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -320,11 +325,16 @@
 				DEVELOPMENT_TEAM = S593B262J6;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = MatellioLocationTask/Info.plist;
+				INFOPLIST_KEY_NSLocationAlwaysAndWhenInUseUsageDescription = "Your location will be used to display nearby transportation options.";
+				INFOPLIST_KEY_NSLocationAlwaysUsageDescription = "Your location will be used to display nearby transportation options.";
+				INFOPLIST_KEY_NSLocationUsageDescription = "Your location will be used to display nearby transportation options.";
+				INFOPLIST_KEY_NSLocationWhenInUseUsageDescription = "Your location will be used to display nearby transportation options.";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
